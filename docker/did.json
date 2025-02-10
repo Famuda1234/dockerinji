@@ -1,14 +1,14 @@
 {
   "assertionMethod": [
-    "did:web:famuda1234.github.io:dockerdemo:docker#key-0"
+    "did:web:famuda1234.github.io:dockerinji:docker#key-0"
   ],
   "service": [],
-  "id": "did:web:famuda1234.github.io:dockerdemo:docker",
+  "id": "did:web:famuda1234.github.io:dockerinji:docker",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkgE1U4yLQPLAE83pYPMKKsHXh93ViWHQMkH6ZAMhhQAqe",
-      "controller": "did:web:famuda1234.github.io:dockerdemo:docker",
-      "id": "did:web:famuda1234.github.io:dockerdemo:docker#key-0",
+      "publicKeyMultibase": "z6Mkem5oeVWgsCWdTXetxHAtsgiSy25YP8GraGtgpAe9nM8C",
+      "controller": "did:web:famuda1234.github.io:dockerinji:docker",
+      "id": "did:web:famuda1234.github.io:dockerinji:docker#key-0",
       "type": "Ed25519VerificationKey2020",
       "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
     }
@@ -18,6 +18,6 @@
   ],
   "alsoKnownAs": [],
   "authentication": [
-    "did:web:famuda1234.github.io:dockerdemo:docker#key-0"
+    "did:web:famuda1234.github.io:dockerinji:docker#key-0"
   ]
 }
